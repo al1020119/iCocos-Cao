@@ -15,6 +15,13 @@
 		B5B25C1C1C17E8BA00FE8646 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B25C1A1C17E8BA00FE8646 /* LaunchScreen.storyboard */; };
 		B5B25C271C17E8BB00FE8646 /* iCocos_GitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B5B25C261C17E8BB00FE8646 /* iCocos_GitTests.m */; };
 		B5B25C321C17E8BB00FE8646 /* iCocos_GitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B5B25C311C17E8BB00FE8646 /* iCocos_GitUITests.m */; };
+		B5B25C411C17F22D00FE8646 /* asdfsdTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B5B25C401C17F22D00FE8646 /* asdfsdTableViewController.m */; };
+		B5B25C431C17F23600FE8646 /* asdfsad.m in Sources */ = {isa = PBXBuildFile; fileRef = B5B25C421C17F23600FE8646 /* asdfsad.m */; };
+		B5B25C451C17F24000FE8646 /* asdfsd.m in Sources */ = {isa = PBXBuildFile; fileRef = B5B25C441C17F24000FE8646 /* asdfsd.m */; };
+		B5B25C481C17F25800FE8646 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B25C471C17F25800FE8646 /* Storyboard.storyboard */; };
+		B5B25C4A1C17F26100FE8646 /* dsa.plist in Resources */ = {isa = PBXBuildFile; fileRef = B5B25C491C17F26100FE8646 /* dsa.plist */; };
+		B5B25C4D1C17F27900FE8646 /* Settings-Watch.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B5B25C4C1C17F27900FE8646 /* Settings-Watch.bundle */; };
+		B5B25C4F1C17F28500FE8646 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = B5B25C4E1C17F28500FE8646 /* View.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +58,16 @@
 		B5B25C2D1C17E8BB00FE8646 /* iCocos-GitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iCocos-GitUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5B25C311C17E8BB00FE8646 /* iCocos_GitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iCocos_GitUITests.m; sourceTree = "<group>"; };
 		B5B25C331C17E8BB00FE8646 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5B25C3F1C17F22D00FE8646 /* asdfsdTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = asdfsdTableViewController.h; sourceTree = "<group>"; };
+		B5B25C401C17F22D00FE8646 /* asdfsdTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = asdfsdTableViewController.m; sourceTree = "<group>"; };
+		B5B25C421C17F23600FE8646 /* asdfsad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = asdfsad.m; sourceTree = "<group>"; };
+		B5B25C441C17F24000FE8646 /* asdfsd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = asdfsd.m; sourceTree = "<group>"; };
+		B5B25C461C17F24700FE8646 /* asdf.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = asdf.playground; sourceTree = "<group>"; };
+		B5B25C471C17F25800FE8646 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		B5B25C491C17F26100FE8646 /* dsa.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = dsa.plist; sourceTree = "<group>"; };
+		B5B25C4B1C17F26A00FE8646 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		B5B25C4C1C17F27900FE8646 /* Settings-Watch.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = "Settings-Watch.bundle"; sourceTree = "<group>"; };
+		B5B25C4E1C17F28500FE8646 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +121,17 @@
 				B5B25C0F1C17E8BA00FE8646 /* AppDelegate.h */,
 				B5B25C101C17E8BA00FE8646 /* AppDelegate.m */,
 				B5B25C121C17E8BA00FE8646 /* ViewController.h */,
+				B5B25C4E1C17F28500FE8646 /* View.xib */,
+				B5B25C4C1C17F27900FE8646 /* Settings-Watch.bundle */,
 				B5B25C131C17E8BA00FE8646 /* ViewController.m */,
+				B5B25C4B1C17F26A00FE8646 /* PrefixHeader.pch */,
+				B5B25C491C17F26100FE8646 /* dsa.plist */,
+				B5B25C471C17F25800FE8646 /* Storyboard.storyboard */,
+				B5B25C441C17F24000FE8646 /* asdfsd.m */,
+				B5B25C461C17F24700FE8646 /* asdf.playground */,
+				B5B25C421C17F23600FE8646 /* asdfsad.m */,
+				B5B25C3F1C17F22D00FE8646 /* asdfsdTableViewController.h */,
+				B5B25C401C17F22D00FE8646 /* asdfsdTableViewController.m */,
 				B5B25C151C17E8BA00FE8646 /* Main.storyboard */,
 				B5B25C181C17E8BA00FE8646 /* Assets.xcassets */,
 				B5B25C1A1C17E8BA00FE8646 /* LaunchScreen.storyboard */,
@@ -243,7 +270,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5B25C4F1C17F28500FE8646 /* View.xib in Resources */,
 				B5B25C1C1C17E8BA00FE8646 /* LaunchScreen.storyboard in Resources */,
+				B5B25C4A1C17F26100FE8646 /* dsa.plist in Resources */,
+				B5B25C4D1C17F27900FE8646 /* Settings-Watch.bundle in Resources */,
+				B5B25C481C17F25800FE8646 /* Storyboard.storyboard in Resources */,
 				B5B25C191C17E8BA00FE8646 /* Assets.xcassets in Resources */,
 				B5B25C171C17E8BA00FE8646 /* Main.storyboard in Resources */,
 			);
@@ -272,6 +303,7 @@
 			files = (
 				B5B25C141C17E8BA00FE8646 /* ViewController.m in Sources */,
 				B5B25C111C17E8BA00FE8646 /* AppDelegate.m in Sources */,
+				B5B25C411C17F22D00FE8646 /* asdfsdTableViewController.m in Sources */,
 				B5B25C0E1C17E8BA00FE8646 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -280,6 +312,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5B25C431C17F23600FE8646 /* asdfsad.m in Sources */,
+				B5B25C451C17F24000FE8646 /* asdfsd.m in Sources */,
 				B5B25C271C17E8BB00FE8646 /* iCocos_GitTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -498,6 +532,7 @@
 				B5B25C381C17E8BB00FE8646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B25C391C17E8BB00FE8646 /* Build configuration list for PBXNativeTarget "iCocos-GitTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +541,7 @@
 				B5B25C3B1C17E8BB00FE8646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B25C3C1C17E8BB00FE8646 /* Build configuration list for PBXNativeTarget "iCocos-GitUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +550,7 @@
 				B5B25C3E1C17E8BB00FE8646 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
