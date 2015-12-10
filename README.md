@@ -1,2 +1,4 @@
 # iCocos-Cao
-项目开发中常用的一个工具类，分类，第三方，经典Demo总结
+专门用于git测试的Demo
+1.命令行git
+2.souretree
